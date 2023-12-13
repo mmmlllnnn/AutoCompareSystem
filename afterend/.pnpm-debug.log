@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+    "err": {
+      "name": "pnpm",
+      "message": "No package.json (or package.yaml, or package.json5) was found in \"C:\\Users\\flash\".",
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+      "stack": "pnpm: No package.json (or package.yaml, or package.json5) was found in \"C:\\Users\\flash\".\n    at readProjectManifest (E:\\environment\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:19656:13)\n    at async Object.readProjectManifestOnly (E:\\environment\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:19660:28)\n    at async readProjectManifestOnly (E:\\environment\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:43802:24)\n    at async Object.handler (E:\\environment\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:171883:24)\n    at async E:\\environment\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:176441:21\n    at async run (E:\\environment\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:176415:34)\n    at async runPnpm (E:\\environment\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:176633:5)\n    at async E:\\environment\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:176625:7"
+    }
+  }
+}

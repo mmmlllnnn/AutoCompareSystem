@@ -1,0 +1,915 @@
+{
+  "number": 182,
+  "data": [
+    {
+      "title": "租后检查计划调整",
+      "uniqueCode": "afterRentCheckPlan",
+      "category": "afeterRentCheck"
+    },
+    {
+      "title": "财务指标",
+      "uniqueCode": "AfterRentCheckFinancialIndex",
+      "category": "afeterRentCheck"
+    },
+    {
+      "title": "租后检查流程",
+      "uniqueCode": "afterRentCheckInitiate",
+      "category": "afeterRentCheck"
+    },
+    {
+      "title": "租后检查详情",
+      "uniqueCode": "afterRentCheckInfoDetail",
+      "category": "afeterRentCheck"
+    },
+    {
+      "title": "到期通知",
+      "uniqueCode": "dueCollectionManagement",
+      "category": "afeterRentCheck"
+    },
+    {
+      "title": "租后检查统计",
+      "uniqueCode": "postRentalInspection",
+      "category": "afeterRentCheck"
+    },
+    {
+      "title": "客户识别评估",
+      "uniqueCode": "customerAssessQuery",
+      "category": "antiMoney"
+    },
+    {
+      "title": "黑名单",
+      "uniqueCode": "blacklistManagementQuery",
+      "category": "antiMoney"
+    },
+    {
+      "title": "黑名单",
+      "uniqueCode": "blacklistManagementQuery",
+      "category": "antiMoney"
+    },
+    {
+      "title": "黑名单",
+      "uniqueCode": "blacklistManagementQuery",
+      "category": "antiMoney"
+    },
+    {
+      "title": "可疑交易监测",
+      "uniqueCode": "suspiciousTransactionsMonitor",
+      "category": "antiMoney"
+    },
+    {
+      "title": "可疑交易监测",
+      "uniqueCode": "suspiciousTransactionsMonitor",
+      "category": "antiMoney"
+    },
+    {
+      "title": "可疑交易监测",
+      "uniqueCode": "suspiciousTransactionsMonitor",
+      "category": "antiMoney"
+    },
+    {
+      "title": "可疑交 \r\n易监测统计",
+      "uniqueCode": "suspiciousTransactionsSelection",
+      "category": "antiMoney"
+    },
+    {
+      "title": "可疑交易监测统计",
+      "uniqueCode": "suspiciousTransactionsSelection",
+      "category": "antiMoney"
+    },
+    {
+      "title": "可疑交易监测统计",
+      "uniqueCode": "suspiciousTransactionsSelection",
+      "category": "antiMoney"
+    },
+    {
+      "title": "反洗钱项目 \r\n列表查询",
+      "uniqueCode": "launderMoneyProjectList",
+      "category": "antiMoney"
+    },
+    {
+      "title": "资产分类流程",
+      "uniqueCode": "AssetClassification",
+      "category": "AssetClassification"
+    },
+    {
+      "title": "担保",
+      "uniqueCode": "collateralBasicInfoQuery",
+      "category": "assets"
+    },
+    {
+      "title": "诉讼管理",
+      "uniqueCode": "litigationProcessStart",
+      "category": "assetsOperation"
+    },
+    {
+      "title": "破产流程发起",
+      "uniqueCode": "bankruptcyProcessStart",
+      "category": "assetsOperation"
+    },
+    {
+      "title": "破产流程发起",
+      "uniqueCode": "bankruptcyProcessStart",
+      "category": "assetsOperation"
+    },
+    {
+      "title": "核销录入发起",
+      "uniqueCode": "cancelDataStart",
+      "category": "assetsOperation"
+    },
+    {
+      "title": "核销录入发起",
+      "uniqueCode": "cancelDataStart",
+      "category": "assetsOperation"
+    },
+    {
+      "title": "资产认定流程",
+      "uniqueCode": "AssetsRecongnition",
+      "category": "AssetsRecongnition"
+    },
+    {
+      "title": "进项税票审批",
+      "uniqueCode": "inputTaxFlowCreat",
+      "category": "bill"
+    },
+    {
+      "title": "合作方放款",
+      "uniqueCode": "manufacturerLoanInfoC",
+      "category": "changsang_leasing"
+    },
+    {
+      "title": "放款承租人查询",
+      "uniqueCode": "manufacturerLoanQuotationC",
+      "category": "changsang_leasing"
+    },
+    {
+      "title": "合作方放款审批",
+      "uniqueCode": "manufacturerLoanFlowCreateC",
+      "category": "changsang_leasing"
+    },
+    {
+      "title": "账号管理",
+      "uniqueCode": "SystemCustomerList",
+      "category": "Client"
+    },
+    {
+      "title": "项目列表",
+      "uniqueCode": "projectQuery",
+      "category": "conference"
+    },
+    {
+      "title": "合同审批",
+      "uniqueCode": "projectQuotationQuery",
+      "category": "contract"
+    },
+    {
+      "title": "经营性租赁合同发起",
+      "uniqueCode": "operatingContractStart",
+      "category": "contract"
+    },
+    {
+      "title": "经营性租赁合同发起",
+      "uniqueCode": "operatingContractStart",
+      "category": "contract"
+    },
+    {
+      "title": "选择影响的项目",
+      "uniqueCode": "selectProjectsByCustId",
+      "category": "contract"
+    },
+    {
+      "title": "选择影响的项目",
+      "uniqueCode": "selectProjectsByCustId",
+      "category": "contract"
+    },
+    {
+      "title": "放款选择",
+      "uniqueCode": "lendApplicationQueryCheck",
+      "category": "contractAdjust"
+    },
+    {
+      "title": "合同变更",
+      "uniqueCode": "contractAdjustStart",
+      "category": "contractAdjust"
+    },
+    {
+      "title": "集团客户",
+      "uniqueCode": "groupCustomer",
+      "category": "customer"
+    },
+    {
+      "title": "白名单",
+      "uniqueCode": "whiteListCustQuery",
+      "category": "customer"
+    },
+    {
+      "title": "客户查询",
+      "uniqueCode": "queryAllCustomer",
+      "category": "customer"
+    },
+    {
+      "title": "关联方名单",
+      "uniqueCode": "RelatedPartyManagrmentQuery",
+      "category": "customer"
+    },
+    {
+      "title": "客户归属查询",
+      "uniqueCode": "customerView",
+      "category": "customer"
+    },
+    {
+      "title": "企业客户",
+      "uniqueCode": "custBasicInfoQuery",
+      "category": "customer"
+    },
+    {
+      "title": "个人客户",
+      "uniqueCode": "personCustBasicInfoQuery",
+      "category": "customer"
+    },
+    {
+      "title": "个人客户",
+      "uniqueCode": "personCustBasicInfoQuery",
+      "category": "customer"
+    },
+    {
+      "title": "公司信息查询",
+      "uniqueCode": "companyInfoQuery",
+      "category": "customer"
+    },
+    {
+      "title": "担保企业客户查询",
+      "uniqueCode": "partyQueryCode",
+      "category": "customer"
+    },
+    {
+      "title": "担保个人客户查询",
+      "uniqueCode": "personQueryCode",
+      "category": "customer"
+    },
+    {
+      "title": "客户移交",
+      "uniqueCode": "custAdjust",
+      "category": "customer"
+    },
+    {
+      "title": "租赁客户查询",
+      "uniqueCode": "customerQueryPopup",
+      "category": "customer"
+    },
+    {
+      "title": "企业客户选择",
+      "uniqueCode": "selectCustomerParty",
+      "category": "customer"
+    },
+    {
+      "title": "回购企业客户查询",
+      "uniqueCode": "repurchaseQuery",
+      "category": "customer"
+    },
+    {
+      "title": "客户查询",
+      "uniqueCode": "taxIdentQueryCust",
+      "category": "customer"
+    },
+    {
+      "title": "企业客户",
+      "uniqueCode": "custBasicInfoPopup",
+      "category": "customer"
+    },
+    {
+      "title": "集团总部客户",
+      "uniqueCode": "groupHeadCustomer",
+      "category": "customer"
+    },
+    {
+      "title": "预警处置",
+      "uniqueCode": "earlyWarningQuery",
+      "category": "customer"
+    },
+    {
+      "title": "企业客户发票选择",
+      "uniqueCode": "custBasicInfoFapao",
+      "category": "customer"
+    },
+    {
+      "title": "出卖人选择（直租）",
+      "uniqueCode": "dealChoice",
+      "category": "customer"
+    },
+    {
+      "title": "担保客户选择",
+      "uniqueCode": "customerPersonDBSelect",
+      "category": "customer"
+    },
+    {
+      "title": "担保客户选择",
+      "uniqueCode": "customerBasicDBSelect",
+      "category": "customer"
+    },
+    {
+      "title": "客户选择",
+      "uniqueCode": "queryParty",
+      "category": "customer"
+    },
+    {
+      "title": "客户账户查询",
+      "uniqueCode": "maginbankAccountQuery",
+      "category": "customer"
+    },
+    {
+      "title": "客户查询",
+      "uniqueCode": "queryCustomerPartyTj",
+      "category": "customer"
+    },
+    {
+      "title": "集团内客户选择",
+      "uniqueCode": "groupCustChoose",
+      "category": "customer"
+    },
+    {
+      "title": "客户资料清单列表",
+      "uniqueCode": "customerDocumentListQuery",
+      "category": "customer"
+    },
+    {
+      "title": "关联方客户",
+      "uniqueCode": "relateCustBasicInfoQuery",
+      "category": "customer"
+    },
+    {
+      "title": "客户共享",
+      "uniqueCode": "custShare",
+      "category": "customer"
+    },
+    {
+      "title": "评审流程发起",
+      "uniqueCode": "projectApprovalProcess",
+      "category": "lainruiProjectApproval"
+    },
+    {
+      "title": "租赁物",
+      "uniqueCode": "assetsLeaseInfoQuery",
+      "category": "lease"
+    },
+    {
+      "title": "资产包和\r\n租赁物信息",
+      "uniqueCode": "leaseItemPackageWithLeaseInfo",
+      "category": "lease"
+    },
+    {
+      "title": "减免申请流程",
+      "uniqueCode": "deductionInitiate",
+      "category": "liqDamaRelief"
+    },
+    {
+      "title": "放款审批",
+      "uniqueCode": "lendApplicationQuery",
+      "category": "loan"
+    },
+    {
+      "title": "收款人查询",
+      "uniqueCode": "payeeQuery",
+      "category": "loan"
+    },
+    {
+      "title": "还款调整",
+      "uniqueCode": "repaymentAdjustQuery",
+      "category": "loan"
+    },
+    {
+      "title": "进件签约发起批量",
+      "uniqueCode": "acceptanceApprovalStartPl",
+      "category": "manufacturer"
+    },
+    {
+      "title": "进件签约发起",
+      "uniqueCode": "acceptanceApprovalStart",
+      "category": "manufacturer"
+    },
+    {
+      "title": "产品方案",
+      "uniqueCode": "manufacturerPlanQuery",
+      "category": "manufacturer"
+    },
+    {
+      "title": "放款起租发起",
+      "uniqueCode": "manufacturerLoanFlowCreate",
+      "category": "manufacturer"
+    },
+    {
+      "title": "厂商客户查询",
+      "uniqueCode": "manufactureCustBasicInfoPopup",
+      "category": "manufacturer"
+    },
+    {
+      "title": "厂商客户查询",
+      "uniqueCode": "manufacturerCustomerQueryPopup",
+      "category": "manufacturer"
+    },
+    {
+      "title": "厂商客户查询",
+      "uniqueCode": "manufacturerCustomerQueryPopup",
+      "category": "manufacturer"
+    },
+    {
+      "title": "企业客\r\n户--挂靠公司",
+      "uniqueCode": "selectmanufacturerCustomerParty",
+      "category": "manufacturer"
+    },
+    {
+      "title": "合作方授信审批",
+      "uniqueCode": "manuCreditFlowCreate",
+      "category": "manufacturer"
+    },
+    {
+      "title": "厂商定价方案查询",
+      "uniqueCode": "manufacturerAlgTemplateConfigQuery",
+      "category": "manufacturer"
+    },
+    {
+      "title": "厂商方案选\r\n择",
+      "uniqueCode": "selectManufacturerQuotation",
+      "category": "manufacturer"
+    },
+    {
+      "title": "厂商客户账号选择",
+      "uniqueCode": "manufacturerCustomerAccountPopup",
+      "category": "manufacturer"
+    },
+    {
+      "title": "网银流水选择",
+      "uniqueCode": "transCodeSelect",
+      "category": "manufacturer"
+    },
+    {
+      "title": "个人收款人",
+      "uniqueCode": "payeePersonQuery",
+      "category": "manufacturer"
+    },
+    {
+      "title": "厂商收款",
+      "uniqueCode": "manufacturerbank",
+      "category": "manufacturer"
+    },
+    {
+      "title": "签约授信客户查询",
+      "uniqueCode": "creditStandingQuery",
+      "category": "manufacturer"
+    },
+    {
+      "title": "租赁履约金抵扣-退回",
+      "uniqueCode": "Margins",
+      "category": "margin"
+    },
+    {
+      "title": "月结\r\n查询合计",
+      "uniqueCode": "monthBalanceQuerySum",
+      "category": "monthBalance"
+    },
+    {
+      "title": "月结操作",
+      "uniqueCode": "monthBalanceManage",
+      "category": "monthBalance"
+    },
+    {
+      "title": "逾期催收",
+      "uniqueCode": "overdueCollection",
+      "category": "payment"
+    },
+    {
+      "title": "核销明细",
+      "uniqueCode": "verificationQuery",
+      "category": "payment"
+    },
+    {
+      "title": "立项审批",
+      "uniqueCode": "custBasicInfoQueryProject",
+      "category": "project"
+    },
+    {
+      "title": "项目机构选择（公司）",
+      "uniqueCode": "projectCompanyInfo",
+      "category": "project"
+    },
+    {
+      "title": "项目移交",
+      "uniqueCode": "projectAdjust",
+      "category": "projectAdjust"
+    },
+    {
+      "title": "项目移交查询",
+      "uniqueCode": "projectQuerys",
+      "category": "projectAdjust"
+    },
+    {
+      "title": "报价测算查询",
+      "uniqueCode": "quotationBasicInfoQuery",
+      "category": "quotation"
+    },
+    {
+      "title": "收益率及现金流\t",
+      "uniqueCode": "profitInfo",
+      "category": "quotation"
+    },
+    {
+      "title": "选择报价方案",
+      "uniqueCode": "selectQuotation",
+      "category": "quotation"
+    },
+    {
+      "title": "结清测 \r\n算",
+      "uniqueCode": "prepaymentRentInfo",
+      "category": "quotation"
+    },
+    {
+      "title": "原始资产",
+      "uniqueCode": "OriginalAssetStatistics",
+      "category": "statistics"
+    },
+    {
+      "title": "剩余资产",
+      "uniqueCode": "remainingAssetStatistics",
+      "category": "statistics"
+    },
+    {
+      "title": "逾期汇总",
+      "uniqueCode": "OverdueSummary",
+      "category": "statistics"
+    },
+    {
+      "title": "逾期汇总",
+      "uniqueCode": "OverdueSummary",
+      "category": "statistics"
+    },
+    {
+      "title": "逾期汇总",
+      "uniqueCode": "OverdueSummary",
+      "category": "statistics"
+    },
+    {
+      "title": "放款",
+      "uniqueCode": "LoanInformation",
+      "category": "statistics"
+    },
+    {
+      "title": "超期项目",
+      "uniqueCode": "OverdueProjectQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "租金表",
+      "uniqueCode": "RepaymentPlan",
+      "category": "statistics"
+    },
+    {
+      "title": "IMAS",
+      "uniqueCode": "IMASQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "交易汇总",
+      "uniqueCode": "ConnectCollect",
+      "category": "statistics"
+    },
+    {
+      "title": "交易明细",
+      "uniqueCode": "ConnectDetail",
+      "category": "statistics"
+    },
+    {
+      "title": "存量单位贷款",
+      "uniqueCode": "ExistUnitLoans",
+      "category": "statistics"
+    },
+    {
+      "title": "客户信息",
+      "uniqueCode": "Customer",
+      "category": "statistics"
+    },
+    {
+      "title": "担保物",
+      "uniqueCode": "Collateral",
+      "category": "statistics"
+    },
+    {
+      "title": "担保合同",
+      "uniqueCode": "CollateralContract",
+      "category": "statistics"
+    },
+    {
+      "title": "可疑交易",
+      "uniqueCode": "SuspiciousTransactions",
+      "category": "statistics"
+    },
+    {
+      "title": "可疑交易",
+      "uniqueCode": "SuspiciousTransactions",
+      "category": "statistics"
+    },
+    {
+      "title": "反洗钱管理",
+      "uniqueCode": "antiMoneyLaunderingManagement",
+      "category": "statistics"
+    },
+    {
+      "title": "反洗钱管理",
+      "uniqueCode": "antiMoneyLaunderingManagement",
+      "category": "statistics"
+    },
+    {
+      "title": "额度",
+      "uniqueCode": "limitQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "项目",
+      "uniqueCode": "ProjectQuery1",
+      "category": "statistics"
+    },
+    {
+      "title": "立项",
+      "uniqueCode": "projectSet",
+      "category": "statistics"
+    },
+    {
+      "title": "商机",
+      "uniqueCode": "ProjectTackingQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "租后指标",
+      "uniqueCode": "rentQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "租后检查",
+      "uniqueCode": "afterRentCheckQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "资产分类",
+      "uniqueCode": "assetClassQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "认定表",
+      "uniqueCode": "identifyForm",
+      "category": "statistics"
+    },
+    {
+      "title": "五级分类汇总",
+      "uniqueCode": "assetQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "应收-实收",
+      "uniqueCode": "receivableQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "放款信息一览",
+      "uniqueCode": "loanQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "合同",
+      "uniqueCode": "contractQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "逾期汇总",
+      "uniqueCode": "yqxmqkTjQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "反洗钱管理统计",
+      "uniqueCode": "suspiciousTransactionsContarct",
+      "category": "statistics"
+    },
+    {
+      "title": "反洗钱管理统计",
+      "uniqueCode": "suspiciousTransactionsContarct",
+      "category": "statistics"
+    },
+    {
+      "title": "项目阶段",
+      "uniqueCode": "projectStageQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "用信详情",
+      "uniqueCode": "creditDebtQuery",
+      "category": "statistics"
+    },
+    {
+      "title": "语句配置",
+      "uniqueCode": "sqlConfig",
+      "category": "system"
+    },
+    {
+      "title": "消息配置",
+      "uniqueCode": "messageConfigEdit",
+      "category": "system"
+    },
+    {
+      "title": "规则配置",
+      "uniqueCode": "calculateTemplateQuery",
+      "category": "system"
+    },
+    {
+      "title": "凭证规则配置",
+      "uniqueCode": "VoucherRuleQueryList",
+      "category": "system"
+    },
+    {
+      "title": "进项折息参数",
+      "uniqueCode": "InputDiscountQuery",
+      "category": "system"
+    },
+    {
+      "title": "项目票据参数",
+      "uniqueCode": "ItemBillQuery",
+      "category": "system"
+    },
+    {
+      "title": "文件模板管理",
+      "uniqueCode": "fileTemplateQueryNew",
+      "category": "system"
+    },
+    {
+      "title": "首页公告查询",
+      "uniqueCode": "publicNoticeQuery",
+      "category": "system"
+    },
+    {
+      "title": "财报模板Suite",
+      "uniqueCode": "FinancialReportTemplateSuite",
+      "category": "system"
+    },
+    {
+      "title": "银行账号",
+      "uniqueCode": "bankAccount",
+      "category": "system"
+    },
+    {
+      "title": "银行账号查询",
+      "uniqueCode": "bankAccountQuery",
+      "category": "system"
+    },
+    {
+      "title": "开户行查询",
+      "uniqueCode": "openBankQuery",
+      "category": "system"
+    },
+    {
+      "title": "凭证模板查询列表页面",
+      "uniqueCode": "VoucherTemplateQueryList",
+      "category": "system"
+    },
+    {
+      "title": "凭\r\n证模板查询列表页面",
+      "uniqueCode": "VoucherTemplateQueryList",
+      "category": "system"
+    },
+    {
+      "title": "凭证模板查询列表页面",
+      "uniqueCode": "VoucherTemplateQueryList",
+      "category": "system"
+    },
+    {
+      "title": "饼状图",
+      "uniqueCode": "bizcharts_pie",
+      "category": "system"
+    },
+    {
+      "title": "柱状图",
+      "uniqueCode": "bizchart_column",
+      "category": "system"
+    },
+    {
+      "title": "文件模板管理",
+      "uniqueCode": "fileTemplateQuery",
+      "category": "system"
+    },
+    {
+      "title": "项目进度监控查询",
+      "uniqueCode": "FlowMonitorQuery",
+      "category": "system"
+    },
+    {
+      "title": "流程数据配置",
+      "uniqueCode": "flowDataConfig",
+      "category": "system"
+    },
+    {
+      "title": "银行账户选择",
+      "uniqueCode": "bankAccountManufacturer",
+      "category": "system"
+    },
+    {
+      "title": "接口服务",
+      "uniqueCode": "InterFaceServiceQuery",
+      "category": "system"
+    },
+    {
+      "title": "接口服务",
+      "uniqueCode": "InterFaceServiceQuery",
+      "category": "system"
+    },
+    {
+      "title": "接口服务",
+      "uniqueCode": "InterFaceServiceQuery",
+      "category": "system"
+    },
+    {
+      "title": "评级配置",
+      "uniqueCode": "UniRatingConfigQuery",
+      "category": "system"
+    },
+    {
+      "title": "项目资料",
+      "uniqueCode": "FileDataProjectQueryList",
+      "category": "system"
+    },
+    {
+      "title": "cp",
+      "uniqueCode": "test",
+      "category": "system"
+    },
+    {
+      "title": "cp",
+      "uniqueCode": "test",
+      "category": "system"
+    },
+    {
+      "title": "接口名称查询",
+      "uniqueCode": "interfaceNameQuery",
+      "category": "system"
+    },
+    {
+      "title": "接口名称查询",
+      "uniqueCode": "interfaceNameQuery",
+      "category": "system"
+    },
+    {
+      "title": "输入接口",
+      "uniqueCode": "InterFacePutDataQuery",
+      "category": "system"
+    },
+    {
+      "title": "输入接口",
+      "uniqueCode": "InterFacePutDataQuery",
+      "category": "system"
+    },
+    {
+      "title": "输入接口",
+      "uniqueCode": "InterFacePutDataQuery",
+      "category": "system"
+    },
+    {
+      "title": "调用统计详情",
+      "uniqueCode": "InterFaceInputInfoDetailsQuery",
+      "category": "system"
+    },
+    {
+      "title": "调用统计 \r\n详情",
+      "uniqueCode": "InterFaceInputInfoDetailsQuery",
+      "category": "system"
+    },
+    {
+      "title": "调用统计",
+      "uniqueCode": "InterFaceInfoQuery",
+      "category": "system"
+    },
+    {
+      "title": "调用统计",
+      "uniqueCode": "InterFaceInfoQuery",
+      "category": "system"
+    },
+    {
+      "title": "调用统计详情",
+      "uniqueCode": "InterFaceInfoDetailsQuery",
+      "category": "system"
+    },
+    {
+      "title": "调用统计详情",
+      "uniqueCode": "InterFaceInfoDetailsQuery",
+      "category": "system"
+    },
+    {
+      "title": "记账流水查询",
+      "uniqueCode": "tallyJournalQuery",
+      "category": "tallyManagement "
+    },
+    {
+      "title": "会计分录查询",
+      "uniqueCode": "accountingEntry",
+      "category": "tallyManagement "
+    },
+    {
+      "title": "会计分录查询",
+      "uniqueCode": "accountingEntry",
+      "category": "tallyManagement "
+    }
+  ]
+}
